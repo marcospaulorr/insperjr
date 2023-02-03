@@ -1,0 +1,30 @@
+.footer{
+    background-color: #e87060;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    color: #ffffff;
+}
+  
+.footerBox{
+    width: 900px;
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+  
+.footerBox li{
+    vertical-align: middle;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.logo{
+    height: 200px;
+    width: 200px;
+}
+
+.footerBox p{
+    line-height: 1;
+}

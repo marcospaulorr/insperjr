@@ -1,0 +1,15 @@
+.nav {
+	position: relative;
+	top: 0px;
+	left: 0;
+  color: #ffffff;
+  background-color: #e87060;
+  width: 100%;
+  padding: 10px 0px;
+}
+
+.nav li {
+  vertical-align: middle;
+	display: inline;
+	margin: 0 0 0 50px;
+}
